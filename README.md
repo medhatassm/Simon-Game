@@ -13,7 +13,7 @@ Users should be able to:
 ![Simon Game](https://github.com/medhatassm/Simon-Game/assets/146084564/1bb53e25-9439-40e6-9538-0839f7d20f3b)
 
 ## Link
-[Simon Game]()
+[Simon Game](https://medhatassm.github.io/Simon-Game/)
 
 ## Tools
 - HTML
